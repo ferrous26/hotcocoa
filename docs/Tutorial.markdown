@@ -1,3 +1,0 @@
-# HotCocoa Tutorial
-
-Coming soon!
